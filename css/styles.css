@@ -1,0 +1,78 @@
+body {
+    font-family: "Roboto", "Raleway",  sans-serif;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1,5;
+}
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 1,33;
+}
+
+.logo-name {
+    color: #4D5AED;
+}
+
+.order-button {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.order-button:hover,
+.order-button:focus {
+    color: #4D5AED;
+    cursor: pointer;
+}
+
+
+.link-studio:hover {
+    color: #4D5AED;
+}
+
+.link-portfolio:hover {
+    color: #4D5AED;
+}
+
+.link-contacts:hover {
+    color: #4D5AED;
+}
+
+.email:hover,
+.email:focus {
+    color: #4D5AED;
+}
+
+.phone:hover,
+.phone:focus {
+    color: #4D5AED;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1,16;
+}
